@@ -8,13 +8,13 @@
 |---|:---:|:---:|:---:|:---:|:---:|
 |담당자|[노경진](https://github.com/kyoung-jnn)|[박제구](https://github.com/Zigje9)|[이도현](https://github.com/ksmfou98)|[정세희](https://github.com/jsh-me)|[추지온](https://github.com/jionchu)|
 
-2. 각자 fork해서 **본인 이름으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다.
+2. 각자 fork해서 **본인 이름(또는 아이디)으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다. (merge할 때 충돌 방지)
 3. 매주 주말 코드리뷰를 진행하고 완료되면 merge합니다.
 
 ### :mag: 문제 선택 기준
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
 - 난이도 `Level 2` 혹은 `Level 3`
-- JavaScript와 Kotlin으로 모두 풀이 가능한 문제
+- `JavaScript`와 `Kotlin`으로 모두 풀이 가능한 문제
 
 ### :white_check_mark: 규칙
 - **Issue 작성 규칙**: 제목은 `{num}주차 문제 :memo:` 형식으로 작성합니다. ex) `1주차 문제 📝`
