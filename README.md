@@ -10,18 +10,26 @@
 
 2. 각자 fork해서 **본인 이름(또는 아이디)으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다. (merge할 때 충돌 방지)
 3. 매주 주말 코드리뷰를 진행하고 완료되면 merge합니다.
-
+---
 ### :mag: 문제 선택 기준
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
 - 난이도 `Level 2` 혹은 `Level 3`
 - `JavaScript`와 `Kotlin`으로 모두 풀이 가능한 문제
-
+---
 ### :white_check_mark: 규칙
-- **Issue 작성 규칙**: 제목은 `{num}주차 문제 :memo:` 형식으로 작성합니다. ex) `1주차 문제 📝`
-- **문제 업로드 규칙**: Issue에 comment로 `{요일} / {문제 제목} {문제 링크}` 형식으로 작성합니다. ex) `월요일 / 튜플 https://programmers.co.kr/learn/courses/30/lessons/64065`
-- **PR 작성 규칙**: 제목은 `이름 : {num}주차` 형식으로 작성합니다. ex) `추지온 : 1주차`
-- **문제 저장 규칙**: `src/홍길동/{num}week/문제파일들` ex) `src/kyoungjin/1week/월요일(튜플).js or 월요일(튜플).kt`
-
+#### 1. Issue 작성 규칙
+- 제목은 `{num}주차 문제 :memo:` 형식으로 작성합니다.
+- ex) `1주차 문제 📝`
+#### 2. 문제 업로드 규칙
+- Issue에 comment로 `{요일} / {문제 제목} {문제 링크}` 형식으로 작성합니다.
+- ex) `월요일 / 튜플 https://programmers.co.kr/learn/courses/30/lessons/64065`
+#### 3. PR 작성 규칙
+- 제목은 `이름 : {num}주차` 형식으로 작성합니다.
+- ex) `추지온 : 1주차`
+#### 4. 문제 저장 규칙
+- `src/홍길동/{num}week/문제파일들`
+- ex) `src/kyoungjin/1week/월요일(튜플).js or 월요일(튜플).kt`
+---
 ### :computer: 사용 언어
 |이름|언어|
 |---|:---:|
