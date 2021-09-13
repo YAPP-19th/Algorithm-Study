@@ -20,7 +20,7 @@
 - **Issue 작성 규칙**: 제목은 `{num}주차 문제 :memo:` 형식으로 작성합니다. ex) `1주차 문제 📝`
 - **문제 업로드 규칙**: Issue에 comment로 `{요일} / {문제 제목} {문제 링크}` 형식으로 작성합니다. ex) `월요일 / 튜플 https://programmers.co.kr/learn/courses/30/lessons/64065`
 - **PR 작성 규칙**: 제목은 `이름 : {num}주차` 형식으로 작성합니다. ex) `추지온 : 1주차`
-- **문제 저장 규칙**: `src/홍길동/{num}week/문제파일들` ex) `src/노경진/1week/월요일(튜플).js or 월요일(튜플).kt`
+- **문제 저장 규칙**: `src/홍길동/{num}week/문제파일들` ex) `src/kyoungjin/1week/월요일(튜플).js or 월요일(튜플).kt`
 
 ### :computer: 사용 언어
 |이름|언어|
