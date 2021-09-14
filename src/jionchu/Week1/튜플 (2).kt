@@ -1,3 +1,8 @@
+/* Programmers
+ * 2019 카카오 개발자 겨울 인턴십 - 튜플
+ * created on 2021.09.14
+ * created by jionchu */ 
+
 class Solution {
     fun solution(s: String): IntArray {
         // 집합별로 분리
