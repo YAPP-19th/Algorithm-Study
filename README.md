@@ -4,12 +4,13 @@
 ### :bulb: 진행 방식
 1. 주차별 이슈에 각자 정한 문제를 하나씩 댓글로 올립니다. 각자 맡은 요일 **하루 전날**까지 올려야 합니다.
 
-|요일|월요일|화요일|수요일|목요일|금요일|
-|---|:---:|:---:|:---:|:---:|:---:|
-|담당자|[노경진](https://github.com/kyoung-jnn)|[박제구](https://github.com/Zigje9)|[이도현](https://github.com/ksmfou98)|[정세희](https://github.com/jsh-me)|[추지온](https://github.com/jionchu)|
+|요일|월요일|화요일|수요일|목요일|
+|---|:---:|:---:|:---:|:---:|
+|담당자|[노경진](https://github.com/kyoung-jnn)|[박제구](https://github.com/Zigje9)|[이도현](https://github.com/ksmfou98)|[추지온](https://github.com/jionchu)|
 
-2. 각자 fork해서 **본인 이름(또는 아이디)으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다. (merge할 때 충돌 방지)
-3. 매주 주말 코드리뷰를 진행하고 완료되면 merge합니다.
+2. 각자 fork해서 **본인 이름으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다. (merge할 때 충돌 방지 위함)
+3. 일주일에 1개의 PR을 생성하며 문제를 풀 때마다 추가로 push하여 가능한 빨리 코드리뷰를 진행합니다.
+4. 코드리뷰가 완료되면 주말에 각자 본인의 PR을 merge합니다.
 ---
 ### :mag: 문제 선택 기준
 - [프로그래머스](https://programmers.co.kr/learn/challenges)
@@ -24,8 +25,8 @@
 - Issue에 comment로 `{요일} / {문제 제목} {문제 링크}` 형식으로 작성합니다.
 - ex) `월요일 / 튜플 https://programmers.co.kr/learn/courses/30/lessons/64065`
 #### 3. PR 작성 규칙
-- 제목은 `이름 : {num}주차` 형식으로 작성합니다.
-- ex) `추지온 : 1주차`
+- 제목은 `[Week{num}] 이름 : 문제 이름` 형식으로 작성합니다.
+- ex) `[Week1] 추지온: 튜플, 거리두기 확인하기, 조이스틱, 위장, 순위 검색`
 #### 4. 문제 저장 규칙
 - `src/홍길동/{num}week/문제파일들`
 - ex) `src/kyoungjin/1week/월요일(튜플).js or 월요일(튜플).kt`
@@ -36,5 +37,4 @@
 |[노경진](https://github.com/kyoung-jnn)|JavaScript|
 |[박제구](https://github.com/Zigje9)|JavaScript|
 |[이도현](https://github.com/ksmfou98)|JavaScript|
-|[정세희](https://github.com/jsh-me)|Kotlin|
 |[추지온](https://github.com/jionchu)|Kotlin|
