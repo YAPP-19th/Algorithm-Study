@@ -6,7 +6,7 @@
 
 |요일|월요일|화요일|수요일|목요일|
 |---|:---:|:---:|:---:|:---:|
-|담당자|[노경진](https://github.com/kyoung-jnn)|[박제구](https://github.com/Zigje9)|[이도현](https://github.com/ksmfou98)|[추지온](https://github.com/jionchu)|
+|담당자|[노경진](https://github.com/kyoung-jnn)|[이주해](https://github.com/LeeJuhae)|[이도현](https://github.com/ksmfou98)|[추지온](https://github.com/jionchu)|
 
 2. 각자 fork해서 **본인 이름으로 만든 폴더 안에** 문제를 풀이한 후 메인 레포에 PR을 올립니다. (merge할 때 충돌 방지 위함)
 3. 일주일에 1개의 PR을 생성하며 문제를 풀 때마다 추가로 push하여 가능한 빨리 코드리뷰를 진행합니다.
@@ -35,6 +35,6 @@
 |이름|언어|
 |---|:---:|
 |[노경진](https://github.com/kyoung-jnn)|JavaScript|
-|[박제구](https://github.com/Zigje9)|JavaScript|
+|[이주해](https://github.com/LeeJuhae)|JavaScript|
 |[이도현](https://github.com/ksmfou98)|JavaScript|
 |[추지온](https://github.com/jionchu)|Kotlin|
